@@ -1,0 +1,15 @@
+[user]
+	name = jackpopper
+	email = xxx@xxx.com
+[core]
+	editor = vim
+	pager = cat
+	attributesfile = ~/.gitattributes
+[color]
+	ui = auto
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch -a
+	ba = branch -a
